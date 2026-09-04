@@ -1,8 +1,8 @@
 {
- "versao_codigo": "0.9.15",
- "publicado_em": "2026-09-01",
- "sha256_instalador": "080ba66ea8cfd9a5521b6028868666ef6ded613e79555845be880362b4a7e7ab",
- "notas": "ver Release v0.9.15 no repositório privado",
+ "versao_codigo": "0.10.0",
+ "publicado_em": "2026-09-04",
+ "sha256_instalador": "7ad9d1acf902d3bd1aed8a504d1beeeb0201067ded5b88dc2b8955386379746f",
+ "notas": "ver Release v0.10.0 no repositório privado",
  "versao_catalogo_recomendada": "2026-08-21",
- "versao_conceitos_recomendada": "cb6c31f9"
+ "versao_conceitos_recomendada": "7721f670"
 }
